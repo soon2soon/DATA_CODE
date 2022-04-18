@@ -1,0 +1,13 @@
+# 가상환경 생성
+$ conda create -n test python=3.7
+
+# 가상환경 실행
+conda activate test
+
+# 필요 패키지 설치
+$ pip install tensorflow==2.5.0 pandas==1.2.3 seaborn==0.11.2 matplotlib==3.4.1 scikit-learn==0.24.1 jupyter notebook
+
+
+
+
+
